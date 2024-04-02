@@ -5,7 +5,7 @@ Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
 ## Alunos integrantes da equipe
 
 * Lucas Teixeira Reis
-* Nome completo do aluno 2
+* Davi Godoi Grilo
 * Daniel Meireles Terra
 
 ## Professores responsáveis

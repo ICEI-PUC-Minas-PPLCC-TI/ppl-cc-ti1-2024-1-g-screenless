@@ -20,9 +20,7 @@ Esta seção traz explicações breves sobre o conjunto de artefatos que precisa
 
 ## Problema
 
-Nesse momento você deve apresentar o problema que a sua aplicação deve resolver. No entanto, não é a hora de comentar sobre a aplicação. Descreva também o contexto em que essa aplicação será usada, se houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de fato existir, pois ainda não é a hora de apresentar requisitos detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+O número de crianças que passam o tempo em contato com telas tem aumentado, fora isso o tempo em que elas ficam nas telas também tem aumentado diminuindo a saúde e bem estar das crianças.
 
 **Links Úteis**:
 
@@ -32,7 +30,7 @@ Nesse momento, o grupo pode optar por fazer uso de ferramentas como Design Think
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+O objetivo da nossa aplicação é ajudar pais e responsáveis por crianças e adolescentes que estejam passando por algum problema de vício em telas a incentivarem os mesmos a buscar uma vida mais equílibrada balanceando o mundo real com o mundo virtual.
 
 **Links Úteis**:
 
@@ -40,9 +38,17 @@ Aqui você deve descrever os objetivos do trabalho indicando que o objetivo gera
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+Trabalhar com uma aplicação com o objetivo de ajudar crianças e adolescentes viciados em telas é de extrema importância por várias razões:
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Impacto na Saúde Mental e Física: O vício em telas pode ter sérios impactos na saúde mental e física das crianças e adolescentes, incluindo problemas como ansiedade, depressão, distúrbios do sono, obesidade e isolamento social. Uma aplicação que ofereça suporte para lidar com esse vício pode ajudar a melhorar a qualidade de vida dessas pessoas e prevenir problemas de saúde futuros.
+
+Desenvolvimento Saudável: O excesso de tempo gasto em telas pode interferir no desenvolvimento saudável das crianças e adolescentes, prejudicando habilidades importantes, como socialização, resolução de problemas, criatividade e auto-regulação emocional. Uma aplicação que promova atividades offline e ofereça alternativas saudáveis ao uso de telas pode contribuir para um desenvolvimento mais equilibrado e completo.
+
+Fortalecimento de Relacionamentos: O vício em telas pode levar ao distanciamento dos familiares e amigos, prejudicando os relacionamentos interpessoais. Uma aplicação que incentive interações sociais offline e promova o envolvimento em atividades compartilhadas pode fortalecer os laços familiares e ajudar a construir relacionamentos significativos.
+
+Educação e Conscientização: Muitas vezes, as crianças e adolescentes não estão cientes dos efeitos negativos do vício em telas ou não sabem como lidar com ele. Uma aplicação pode oferecer recursos educacionais e ferramentas práticas para aumentar a conscientização sobre esse problema e fornecer estratégias eficazes para superá-lo.
+
+Empoderamento e Autonomia: Ao fornecer às crianças e adolescentes ferramentas e recursos para lidar com seu vício em telas, uma aplicação pode capacitá-los a tomar controle de seu próprio comportamento e tomar decisões saudáveis em relação ao uso de dispositivos digitais. Isso promove a autonomia e o senso de responsabilidade em relação à sua saúde e bem-estar.
 
 **Links Úteis**:
 

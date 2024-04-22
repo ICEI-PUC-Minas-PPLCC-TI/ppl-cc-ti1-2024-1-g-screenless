@@ -56,9 +56,21 @@ Empoderamento e Autonomia: Ao fornecer às crianças e adolescentes ferramentas 
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
+O público alvo para a nossa aplicação são os pais e responsáveis de crianças que estão lidando com vícios em telas.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, ou diagramas de personas, mapa de stakeholders, ou como o grupo achar mais conveniente.
+Faixa Etária: 30-50 anos
+
+Características: 
+
+1- Preocupação com o Bem-Estar dos Filhos: Os membros desse público têm uma preocupação genuína com o bem-estar físico, mental e emocional de seus filhos.
+
+2- Interesse em Educação e Recursos: Eles estão abertos a aprender mais sobre os efeitos do vício em telas e estão interessados em acessar recursos educacionais e práticos para ajudar seus filhos a superar esse problema.
+
+3- Engajamento em Atividades Familiares: Essas famílias valorizam o tempo de qualidade passado juntos e estão interessadas em encontrar alternativas criativas e envolventes ao uso de dispositivos digitais.
+
+4- Uso Consciente da Tecnologia: Embora reconheçam os benefícios da tecnologia, essas famílias procuram promover um uso consciente e equilibrado dos dispositivos digitais.
+
+5- Comunidade de Apoio: Eles valorizam o apoio de uma comunidade de pais e responsáveis que compartilham preocupações semelhantes e estão dispostos a compartilhar experiências, ideias e recursos para ajudar uns aos outros a lidar com o desafio do vício em telas.
 
 **Links Úteis**:
 

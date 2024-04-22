@@ -79,7 +79,77 @@ Características:
 
 ## Personas
 
-Relacione as personas identificadas no seu projeto e os respectivos mapas de empatia. Lembre-se que você deve ser enumerar e descrever precisamente e de forma personalizada todos os principais envolvidos com a solução almeja.
+Persona 1 - 
+
+Nome: Alexandre
+
+Idade: 12 Anos
+
+Hobby: Programação
+
+Trabalho: Não trabalha
+
+Personalidade: Alexandre é curioso, apaixonado por tecnologia,
+determinado e sociável, buscando equilibrar sua vida digital com experiências offline.
+
+Sonhos: Alexandre tem como sonhos ser desenvolvedor de jogos, explorar carreiras na área da tecnologia, viajar pelo mundo e encontrar um equilíbrio saudável da sua vida real com a vida digital.
+
+Objetos e Lugares: Alexandre utiliza Smartphone, Tablet e Computador para jogar videogames, assistir vídeos no youtube entre outros, ele também utiliza controles de videogame para jogar uma ampla variedade de jogos, Alexandre também possui uma câmera fotográfica que ele usa para capturar momentos especiais, paisagens interessantes e aventuras ao ar livre e também tem livros e revistas que utiliza nos poucos momentos que está desconectado.
+
+Objetivos Chave: O objetivo chave dessa pessoa durante a utilização do serviço é conseguir se livrar dos vícios que adquiriu ao longo da vida, Alexandre reconhece a problemática de estar viciado em eletrônicos e tem o desejo de conseguir ter uma vida mais equilibrada com a ajuda desse serviço.
+
+Como devemos tratá-la: 
+
+Objetivos Chave: Comportamentos que deixam o Alexandre feliz são:
+O reconhecimento de suas conquistas e interesses
+
+1- Oferecimento de apoio e incentivo em seus hobbies e atividades
+2- Tempo de qualidade com amigos e familiares, seja online ou offline
+3- Oportunidades para explorar novas áreas de interesse e aprender novas habilidades
+4- Sentir-se respeitado e valorizado por suas opiniões e sentimentos
+5- Um ambiente que promove a diversão, a criatividade e o desenvolvimento pessoal.
+
+Persona 2 -
+
+Nome: Roberto
+
+Idade: 39 Anos
+
+Hobby: Tocar Piano
+
+Trabalho: Medico de Pronto Socorro.
+
+Personalidade: Rígido, protetor, alegre e dedicado.
+
+Sonhos: Ter uma família saudável e feliz.
+
+Objetos e Lugares: Smartphone, Telefones fixo-os e Computador que utiliza diariamente em serviço e
+livros de medicina que utiliza nos poucos momentos que está estudando para o trabalho.
+
+Objetivos Chave: Melhorar o bem estar de sua família.
+
+Como devemos tratá-la: Vamos tratá-lo forma objetiva e formal, sempre transmitindo uma sensação de segurança e confiança.
+
+Persona 3 -
+
+Nome: Safira
+
+Idade: 43 Anos
+
+Hobby: Ler.
+
+Trabalho: Escritora.
+
+Personalidade: Calma.
+
+Sonhos: Ler obras literárias clássicas.
+
+Objetos e Lugares: Livros para leitura como lar
+computador para redigir textos
+
+Objetivos Chave: Cuidar do filho para ter mais tempo.
+
+Como devemos tratá-la: Educamente, pacientemente.
 
 **Links Úteis**:
 

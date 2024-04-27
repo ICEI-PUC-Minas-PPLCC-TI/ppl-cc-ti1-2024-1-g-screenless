@@ -1,6 +1,6 @@
-# Nome do projeto
+# Screen-Less
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+Nosso projeto é uma aplicação web que tem como objetivo ajudar crianças e adolescentes a passarem menos tempo em frente as telas.
 
 ## Alunos integrantes da equipe
 
